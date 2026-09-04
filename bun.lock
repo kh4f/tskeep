@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "tslock",
+      "name": "tskeep",
       "devDependencies": {
         "@kh4f/eslint-config": "^0.4.3",
         "@types/bun": "^1.4.0",

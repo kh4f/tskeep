@@ -7,4 +7,4 @@ const source = readFileSync(TARGET, 'utf8')
 const patched = source.replace(/(?<=\s)var _userTsConfig_compilerOptions;/, 'if (!isFirstTimeSetup) return;$&')
 
 writeFileSync(TARGET, patched, 'utf8')
-console.log('[tslock] Patch applied')
+console.log('[tskeep] Patch applied')
