@@ -8,7 +8,11 @@
 	"homepage": "https://github.com/kh4f/tslock",
 	"bugs": "https://github.com/kh4f/tslock/issues",
 	"keywords": [],
+	"scripts": {
+		"build": "tsdown"
+	},
 	"devDependencies": {
+		"tsdown": "^0.23.0",
 		"typescript": "^6.0.3"
 	}
 }
