@@ -8,6 +8,8 @@
 	"homepage": "https://github.com/kh4f/tslock",
 	"bugs": "https://github.com/kh4f/tslock/issues",
 	"keywords": [],
+	"files": ["dist"],
+	"bin": "dist/index.mjs",
 	"scripts": {
 		"build": "tsdown"
 	},
