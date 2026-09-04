@@ -11,9 +11,11 @@
 	"files": ["dist"],
 	"bin": "dist/index.mjs",
 	"scripts": {
-		"build": "tsdown"
+		"build": "tsdown",
+		"lint": "tsc && eslint"
 	},
 	"devDependencies": {
+		"@kh4f/eslint-config": "^0.4.3",
 		"tsdown": "^0.23.0",
 		"typescript": "^6.0.3"
 	}
