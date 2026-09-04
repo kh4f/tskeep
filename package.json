@@ -7,7 +7,7 @@
 	"repository": "https://github.com/kh4f/tslock",
 	"homepage": "https://github.com/kh4f/tslock",
 	"bugs": "https://github.com/kh4f/tslock/issues",
-	"keywords": [],
+	"keywords": ["tsconfig", "typescript", "nextjs", "tsconfig-guard", "next-patch"],
 	"files": ["dist"],
 	"bin": "dist/index.mjs",
 	"scripts": {
