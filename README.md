@@ -1,16 +1,16 @@
-# 🔒 tskeep
+# 🛡️ tskeep
 
-A Next.js patch preventing it from modifying your `tsconfig.json`
+A Next.js patch that prevents it from modifying your `tsconfig.json`
 
 ## 🕹️ Usage
+
+Run `tskeep` to patch your local Next.js installation (`node_modules/next`):
 
 ```bash
 bunx tskeep
 ```
 
-This patches `node_modules/next`.
-
-To apply the patch automatically after every deps install, add it to the `prepare` script:
+To apply the patch automatically after every dependency install, add it to your `prepare` script:
 
 ```json
 {
