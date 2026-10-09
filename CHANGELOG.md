@@ -1,5 +1,13 @@
 # Changelog
 
+## &ensp; ` 🏷️ v0.1.1  `
+
+### &emsp; 📋 Docs
+- **Clearer README**: reworded the intro and usage instructions. [🡥](https://github.com/kh4f/tskeep/commit/358a571498e1b8d1273c2e64f992a8ed2b1b4a23)
+- **npm badges**: added npm version, downloads, and license badges to the README. [🡥](https://github.com/kh4f/tskeep/commit/51c54488990e8ef95ded73da1295b0b708321217)
+
+##### &emsp;&emsp; [Commit log](https://github.com/kh4f/tskeep/compare/v0.1.0...v0.1.1) &ensp;•&ensp; Oct 9, 2026
+
 ## &ensp; ` 🏷️ v0.1.0  `
 
 ### &emsp; 🎁 Features

@@ -1,6 +1,6 @@
 {
 	"name": "tskeep",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "🛑 Stop Next.js from Polluting Your tsconfig",
 	"author": "kh4f",
 	"license": "MIT",
